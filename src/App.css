@@ -45,9 +45,8 @@ body {
 
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #fe9e0d;
   outline: none;
-  border: none;
+  border: 1px solid #fe9e0d;
   border-radius: 5rem;
   font-size: 1.1rem;
   cursor: pointer;
@@ -65,7 +64,7 @@ body {
 }
 
 .secondary-button:hover {
-  background-color: #e48f0f;
+  background-color: white;
 }
 
 .primary-subheading {

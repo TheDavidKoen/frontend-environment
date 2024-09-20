@@ -19,7 +19,7 @@ const Home = () => {
             This page was designed using my own framework developed with React.js
           </p>
           <button className="secondary-button">
-            View the Code <FiArrowRight />{""}
+            <a href="https://github.com/TheDavidKoen/frontend-environment" target="_blank">View the Code <FiArrowRight /></a>
           </button>
         </div>
       </div>
